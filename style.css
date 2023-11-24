@@ -17,7 +17,7 @@
   list-style: none;
 }
 .header-wraper {
-  background-image: url(/images/Background-header-home.jpg);
+  background-image: url(../Js8/images/Background-header-home.jpg);
   height: 250px;
   width: 100%;
   background-position: left;
